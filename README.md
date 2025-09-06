@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://mairoky.com](https://mairoky.com)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **JavaScript, React.js, Node.js**
 
